@@ -1,0 +1,31 @@
+Solayao, Rubelyn D. 
+
+This System is just for user who enjoy reading quotes.
+you can post your quotes can comment ..
+
+Quotes
+	
+	*login/logout
+	*can register
+	*have own account
+	*can post his/her own qoutes
+	*can like
+	*share
+	
+	can
+		register
+		add/edit/delete/save/login/logout/
+		can have his account
+		can post her own quotes if she/he already registered
+		
+	can't 
+		 search
+		 share
+	    like
+		
+		
+		
+PROBLEM :
+
+	i have an idea but when i try commit mistake ..and sometimes my system same to be bastah so many sayop ..
+	i don't know where to begin where to stop where to have a checking and sometimes it making me grrrrrrrrrr. 

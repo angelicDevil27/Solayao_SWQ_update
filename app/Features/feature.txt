@@ -1,0 +1,34 @@
+Solayao, Rubelyn D. 
+
+This System is just for user who enjoy reading quotes.
+Here you can post your quotes and share to your friends..
+
+
+TITLE: Quotes Land System
+
+
+	Quotes
+	
+	*login/logout
+	*can register
+	*have own account
+	*can post his/her own qoutes
+	*can like
+	*share
+	
+	
+	
+	can
+		register
+		add/edit/delete/save/login/logout/
+		can have his account
+		can post her own quotes if she/he already registered
+		
+		
+		
+	can't 
+		 search
+		 share
+	    like
+		
+		

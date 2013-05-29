@@ -1,0 +1,106 @@
+/*LOG IN */
+#header_logIn{
+	background-image: url(../images/bamboo.jpeg);
+	width:1600px;
+	position:fixed;
+
+}
+#nav_tab{
+	float: right;
+
+}
+/*.main_div*/
+#btn_tab{
+	margin-top:100px;
+	margin-right: 170px;
+	margin-left: 200px;
+	display:center;
+	float: right;
+}
+
+#SignIn{
+	margin-top: 200px;
+	position:fixed;
+}
+
+
+/*color of tab*/
+/*
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active{
+	background:#00aedb;
+}
+**/
+
+.Comment{
+cursor: pointer;
+}
+
+
+#getToKnow{
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-top: 20px;
+	padding: 10px;
+	display:center;
+	float: right;
+	
+}
+
+span{
+	font-size: 30px;
+	font-family: Garamond;
+	font-style: Italic;
+	color: #ff56dd;
+}
+
+
+#profile{
+	margin-top: 150px;
+	height: 200px;
+	width:150px;
+	padding: 20px;
+	position: fixed;	
+	float: left;
+	background-color: #ee82ee;
+}
+
+#logOut{
+	margin-top: 20px;
+	padding: 20px;
+	position: fixed;	
+	float: left;
+}
+
+
+#h{
+	height:240px;
+	width: 320px;
+}
+
+#hurtQ{
+	margin-top: 50px;
+}
+
+#home_div{
+	margin-top: 100px;
+}
+
+#quotes{
+	margin-top:50px;
+}
+
+
+#loveQ{
+	margin-top: 50px;
+}
+
+#LQ{
+	width: 300px;
+	border: 1px solid #ccc;
+	margin-top: 5px;
+	padding:10px;
+	display: inline-block;
+}
+
